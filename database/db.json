@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsium...",
+      "author": "tunde",
+      "id": 1
+    },
+    {
+      "title": "welcome party",
+      "body": "lorem ipsium...",
+      "author": "busrah",
+      "id": 2
+    },
+    {
+      "title": "web dev top tips",
+      "body": "lorem ipsium...",
+      "author": "tunde",
+      "id": 3
+    },
+    {
+      "title": " the universe",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus porro excepturi totam impedit eaque! Sint facere dolore maxime deserunt quas, veniam ratione voluptates possimus itaque laboriosam officia distinctio alias molestias, impedit consectetur temporibus est et. Dolores voluptatum nemo provident nisi est alias id voluptate quasi deleniti impedit rem vero, eligendi fugit excepturi non maiores quo animi velit. Repellat praesentium veniam earum eaque harum odio suscipit. Architecto sint rem veritatis, obcaecati voluptatem consequuntur atque quam repellendus eos magni porro alias incidunt, ducimus esse consequatur totam blanditiis ex adipisci labore praesentium exercitationem quod, quasi ipsa natus. Obcaecati nihil asperiores dolor quas cumque.",
+      "author": "tunde",
+      "id": 4
+    },
+    {
+      "title": " another one",
+      "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus porro excepturi totam impedit eaque! Sint facere dolore maxime deserunt quas, veniam ratione voluptates possimus itaque laboriosam officia distinctio alias molestias, impedit consectetur temporibus est et. Dolores voluptatum nemo provident nisi est alias id voluptate quasi deleniti impedit rem vero, eligendi fugit excepturi non maiores quo animi velit. Repellat praesentium veniam earum eaque harum odio suscipit. Architecto sint rem veritatis, obcaecati voluptatem consequuntur atque quam repellendus eos magni porro alias incidunt, ducimus esse consequatur totam blanditiis ex adipisci labore praesentium exercitationem quod, quasi ipsa natus. Obcaecati nihil asperiores dolor quas cumque.</p> ",
+      "author": "tunde",
+      "id": 5
+    }
+  ]
+}
